@@ -1,0 +1,15 @@
+version: '3'
+services:
+  app:
+    image: z1k2001/arrs-add-movies-imdb:latest
+    container_name: Add-movies-imdb
+    restart: unless-stopped
+    environment:
+      - SERVER_ID=123456
+      - BOT_TOKEN=fhtVHnY
+      - radarr-url=http://1.1.1.1:7878
+      - radarr-api-key=dkwkok23232
+      - sonarr-url=""
+      - sonarr-api-key=""
+    network_mode: "bridge"
+   
