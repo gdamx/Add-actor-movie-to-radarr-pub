@@ -22,3 +22,10 @@ To invite the bot do the following. Copy and paste the link into your browser an
 
 ![image](https://github.com/gdamx/Add-actor-movie-to-radarr-pub/assets/99370593/855008e5-c1d4-4dca-b1ac-4df7dcc65344)
 
+
+
+To get the imdb ID of an actor. Do the following. Go to the actors page and the the numbers in the url. For ex
+
+![image](https://github.com/gdamx/Add-actor-movie-to-radarr-pub/assets/99370593/3a4523ab-bacd-4329-8582-84624fbf90ef)
+
+
